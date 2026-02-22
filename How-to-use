@@ -1,0 +1,37 @@
+# How to Build Anything in AuTron Studio
+
+AuTron works like a set of instructions. If you can speak English, you can code in AuTron.
+
+---
+
+## ⚡ STEP 1: The "Make" Command
+Start your instructions with `make`. It tells AuTron to do something right now.
+
+**Action Words:**
+- `make say`: Show text.
+- `make set`: Save data.
+- `make loop`: Repeat code.
+- `make if`: Check something.
+- `make add / take`: Do math.
+
+---
+
+## 🚀 STEP 2: Try a Demo
+Click the **🌟 Demos** button to load a pre-built project.
+Notice how Python, C++, and Java all look the same now? That's the power of **Human-Logic**.
+
+---
+
+## 🧪 STEP 3: Preview
+Press **F5**. 
+- Websites appear on the **Left**.
+- Logic/Scripts appear in the **Terminal** on the right.
+
+---
+
+## 🤖 STEP 4: Need Help?
+Talk to the **AI Assistant** (Alt + A). 
+Just say: *"Make me a script that adds numbers"* or *"Make me a blue website"* and it will write the code for you!
+
+---
+*AuTron Studio - Where everyone is an Architect.*
